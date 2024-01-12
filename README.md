@@ -3,7 +3,7 @@
 ![Fiyat Analizi Uygulaması](https://github.com/Alioglcn/Web-Kazima-ile-Fiyat-Analizi/blob/main/images/app.jpeg)
 
 
-R, Pyton ve Selenium teknolojileri ile geliştirilmiş, ebebek firmasının rakipleri arasındaki konumunu tespit eden bir Fiyat Analizi projesi.
+R, Python ve Selenium teknolojileri ile geliştirilmiş, ebebek firmasının rakipleri arasındaki konumunu tespit eden bir Fiyat Analizi projesi.
 
 ## İçindekiler
 
