@@ -1,6 +1,6 @@
 # Web Kazıma ile Fiyat Analizi 
 
-![Predict Form](https://github.com/Alioglcn/Heart-Disease-Prediction/blob/main/static/assets/img/Screenshot%202023-08-01%20at%2023.40.16.png)
+![Predict Form]([https://github.com/Alioglcn/Heart-Disease-Prediction/blob/main/static/assets/img/Screenshot%202023-08-01%20at%2023.40.16.png](https://github.com/Alioglcn/Web-Kazima-ile-Fiyat-Analizi/blob/main/images/app.jpeg)
 
 R, Pyton ve Selenium teknolojileri ile geliştirilmiş, ebebek firmasının rakipleri arasındaki konumunu tespit eden bir Fiyat Analizi projesi.
 
