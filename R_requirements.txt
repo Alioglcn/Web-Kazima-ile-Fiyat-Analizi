@@ -1,0 +1,15 @@
+
+Uygulama konsolunda install.packages("x") x yerine kütüphane ismi gelecek şekilde yükleyin.
+
+~ Gerekli kütüphaneler ~
+
+RSeleniım
+rvest
+dplyr
+purrr
+writexl
+DBI
+RPostgres
+tidyverse
+netstat
+wdman

@@ -1,0 +1,12 @@
+calisan_uygulama.R adlı dosya, sunum sırasında kullandığımız uygulamadır. Verisetlerinin uzantılarını 86-93 satırları arasındaki kısımlarda size göre değiştirmeniz gerekmektedir.
+
+Eğer uygulama çalışmazsa, aşağıdaki satırların tamamını konsola atarak önce o satırların ide tarafından okunmasını sağlamanız gerekmektedir.
+
+2-11 : bu satırların tamamını aşağıdaki konsola yapıştırın, ide kütüphaneleri alacaktır.
+86-93 : aynı şekilde..
+96-105 : aynı şekilde..
+107 - 135 : aynı şekilde..
+
+Sonrasında ctrl + alt + R yaparak uygulamayı çalıştırabilirsiniz..
+
+NOT : Bu uygulama sadece sizin çalıştırabilmeniz içindir!! Asıl uygulama, uygulama adlı klasörün içindedir..
