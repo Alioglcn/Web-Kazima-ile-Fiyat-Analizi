@@ -19,7 +19,7 @@ Selenium ile internet sitelerinden çekilen ürün bilgileri, R ve Python ortaml
 ## Kurulum
 
 Repository'i klonlayın:
-    **git clone https://github.com/alioglcn/Web-Kazima_ile_Fiyat_Analizi.git**
+    **git clone [https://github.com/alioglcn/Web-Kazima_ile_Fiyat_Analizi.git](https://github.com/Alioglcn/Web-Kazima-ile-Fiyat-Analizi)**
 
 'R_requirements.txt' içerisindeki talimatlara göre ilgili R kütüphanelerini, R ortamınızda yükleyin
 
